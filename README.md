@@ -8,14 +8,13 @@ export class Info {
 	school: string = 'Università degli studi Milano Bicocca'
 	occupation: string = 'Web Developer'
 	freetime: string[] = ['Motorbikes', 'Hanging out with friends']
-	musical_interest_years: number[] = [70, 80, 90]
 
 }
 
 export class Programming {
 
 	languages: string[] = ['Java', 'Python', 'TypeScript', 'JavaScript', 'PHP']
-	stylesheets: string[] = ['CSS', 'SASS', 'SCSS', 'Stylus']
+	stylesheets: string[] = ['CSS', 'SASS', 'SCSS']
 	frameworks: string[] = ['Angular', 'React']
 	runtimes: string[] = ['Node']
 	databases: string[] = ['MySQL', 'Mongo', 'Postgresql', 'Oracle', 'DB2']
@@ -37,8 +36,3 @@ export class Social {
 
 }
 ```
-
------
-Credits: [martonlederer](https://github.com/martonlederer)
-
-Last Edited on: 30/08/2020
