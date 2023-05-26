@@ -36,3 +36,21 @@ export class Social {
 
 }
 ```
+
+ <div align="center">
+	<a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/simone-celia-b5b26a5/">
+		<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt=""/>
+	</a>
+	<a style="margin-left: 10px;" target="_blank" href="https://github.com/simon387/">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt=""/>
+	</a>
+	<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/7534931/simone-celia">
+		<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" alt=""/>
+	</a>
+	<a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/_s1m0n387/">
+		<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" alt=""/>
+	</a>
+	<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/Simone_Celia">
+		<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" alt=""/>
+	</a>
+</div>
