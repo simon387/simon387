@@ -19,7 +19,7 @@ export class Programming {
 	runtimes: string[] = ['Node']
 	databases: string[] = ['MySQL', 'Mongo', 'Postgresql', 'Oracle', 'DB2']
 	learning: string[] = ['Angular']
-	projects: string[] = ['see simonecelia.it']
+	projects: string[] = ['see simonecelia.it', 'or this github']
 
 }
 
