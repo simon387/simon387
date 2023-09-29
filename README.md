@@ -32,7 +32,7 @@ export class Social {
 	stackoverflow: string = 'https://stackoverflow.com/users/7534931/simone-celia'
 	facebook: string = 'https://www.facebook.com/simone.celia.98/'
 	twitter: string = 'https://twitter.com/Simone_Celia'
-	telegram: string = 'https://t.me/simon387'
+	telegram: string = 'https://t.me/simone_celia'
 
 }
 ```
