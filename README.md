@@ -13,9 +13,9 @@ export class Info {
 
 export class Programming {
 
-	languages: string[] = ['Java', 'Python', 'TypeScript', 'JavaScript', 'PHP', 'COBOL', 'Lua', 'AutoIt']
+	main languages: string[] = ['Java', 'Python', 'TypeScript', 'JavaScript', 'PHP', 'COBOL', 'Lua', 'AutoIt']
 	stylesheets: string[] = ['CSS', 'SASS', 'SCSS']
-	frameworks: string[] = ['Spring', 'Quarkus', 'Hibernate', 'Angular', 'React']
+	main frameworks: string[] = ['Spring', 'Quarkus', 'Hibernate', 'Angular', 'React']
 	runtimes: string[] = ['Node']
 	databases: string[] = ['MySQL', 'Mongo', 'Postgresql', 'Oracle', 'DB2']
 	learning: string[] = ['Angular']
