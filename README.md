@@ -20,6 +20,7 @@ export class Programming {
 	databases: string[] = ['MySQL', 'Mongo', 'Postgresql', 'Oracle', 'DB2']
 	learning: string[] = ['Angular']
 	projects: string[] = ['see simonecelia.it', 'or this github']
+	others: string[] = ['Arduino', 'C', 'C++']
 
 }
 
