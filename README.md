@@ -7,7 +7,7 @@ export class Info {
 	languages: Record<string, string>[] = [{'Spanish': 'A2'}, {'English': 'A2'}, {'Italian': 'native'}]
 	school: string = 'Università degli studi Milano Bicocca'
 	occupation: string = 'Web Developer'
-	freetime: string[] = ['Motorbikes', 'Hanging out with friends']
+	freetime: string[] = ['Motorbikes', 'Technology']
 
 }
 
