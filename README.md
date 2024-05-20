@@ -4,7 +4,7 @@ export class Info {
 	name: string = 'Simone Celia'
 	age: number = 36
 	nationality: string[] = ['Italian']
-	languages: Record<string, string>[] = [{'Spanish': 'A2'}, {'English': 'A2'}, {'Italian': 'native'}]
+	languages: Record<string, string>[] = [{'Spanish': 'Bueno'}, {'English': 'Good'}, {'Italian': 'native'}]
 	school: string = 'Università degli studi Milano Bicocca'
 	occupation: string = 'Web Developer'
 	freetime: string[] = ['Motorbikes', 'Technology']
