@@ -54,4 +54,7 @@ export class Social {
 	<a href="https://twitter.com/Simone_Celia">
 		<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" alt=""/>
 	</a>
+	<a href="https://github.com/SWFRIK/TradeTennis">
+		TT
+	</a>
 </div>
